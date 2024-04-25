@@ -18,15 +18,15 @@ This Python script scrapes information about Tesla locations from the Tesla webs
 ## Usage
 1. Clone this repository:
    ```
-   git clone https://github.com/<username>/tesla-location-scraper.git
+   git clone [https://github.com/yufei-ilariahuang/tesla-data-scrape.git]
    ```
 2. Navigate to the project directory:
    ```
-   cd tesla-location-scraper
+   cd scrap
    ```
 3. Run the script:
    ```
-   python scraper.py
+   python scrape.py
    ```
 4. The script will scrape Tesla location information from the Tesla website and store it in a file named `tesla_location_dataset.json` in the project directory.
 
