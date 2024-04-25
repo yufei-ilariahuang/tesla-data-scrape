@@ -1,0 +1,41 @@
+[
+    {
+        "title": "Tesla Superchargers in Morocco"
+    },
+    {
+        "location": "Agadir, Morocco",
+        "url": "https://www.tesla.com/findus/location/supercharger/agadirsupercharger",
+        "address": "Baie des palmiers - Cit\u00e9 Founty P5",
+        "postal": "80010"
+    },
+    {
+        "location": "Casablanca, Morocco",
+        "url": "https://www.tesla.com/findus/location/supercharger/casablancamoroccosupercharger",
+        "address": "Parking Onomo Hotel, Boulevard Al Massira Al Khadra",
+        "postal": "20250"
+    },
+    {
+        "location": "Fes, Morocco",
+        "url": "https://www.tesla.com/findus/location/supercharger/fessupercharger",
+        "address": "Route de Sefrou, Fes, Fes, Morocco",
+        "postal": ""
+    },
+    {
+        "location": "Marrakech, Morocco",
+        "url": "https://www.tesla.com/findus/location/supercharger/marrakechsupercharger",
+        "address": "Angle rue El Yarmouk et Rue Haroun Errachid Quartier de l'Hivernarge",
+        "postal": "40000"
+    },
+    {
+        "location": "Rabat, Morocco - Sofitel Jardin des Roses",
+        "url": "https://www.tesla.com/findus/location/supercharger/26002",
+        "address": "Bp 450 Souissi, Quartier Aviation",
+        "postal": "10000"
+    },
+    {
+        "location": "Tangier, Morocco",
+        "url": "https://www.tesla.com/findus/location/supercharger/tangiersupercharger",
+        "address": "Km 19.8, National Route 1 Tangier-Asilah",
+        "postal": "90100"
+    }
+]

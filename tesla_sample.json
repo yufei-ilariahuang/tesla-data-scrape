@@ -1,0 +1,47 @@
+[
+    {
+        "title": "Tesla Stores in Belgium"
+    },
+    {
+        "location": "Brussels - Drogenbos",
+        "url": "https://www.tesla.com/findus/location/store/Brussels-Drogenbos",
+        "address": "9 Drie Fonteinenstraat",
+        "postal": "1620 Drogenbos"
+    },
+    {
+        "location": "Antwerp-Aartselaar",
+        "url": "https://www.tesla.com/findus/location/store/Antwerp",
+        "address": "8 Boomsesteenweg",
+        "postal": "2630 Aartselaar"
+    },
+    {
+        "location": "Brugge",
+        "url": "https://www.tesla.com/findus/location/store/14852",
+        "address": "112 Pathoekeweg",
+        "postal": "8000 Brugge"
+    },
+    {
+        "location": "Brussels - Zaventem",
+        "url": "https://www.tesla.com/findus/location/store/leuvensesteenweg",
+        "address": "373 Leuvensesteenweg",
+        "postal": "1932 Zaventem"
+    },
+    {
+        "location": "Ghent - Latem",
+        "url": "https://www.tesla.com/findus/location/store/GhentLatem",
+        "address": "164 Kortrijksesteenweg",
+        "postal": "9830 Sint-Martens-Latem"
+    },
+    {
+        "location": "Hasselt-Herkenrode",
+        "url": "https://www.tesla.com/findus/location/store/hasselt_herkenrode",
+        "address": "77 Herkenrodesingel",
+        "postal": "3500 Hasselt"
+    },
+    {
+        "location": "Liege - Awans",
+        "url": "https://www.tesla.com/findus/location/store/Liege-Awans",
+        "address": "11 Rue de l'Estampage",
+        "postal": "4340 Awans"
+    }
+]
